@@ -7,5 +7,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "supabase": "^1.46.0"
+  },
+  "type": "module",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.12.1",
+    "alchemy-sdk": "^2.6.2"
+  }
 }
